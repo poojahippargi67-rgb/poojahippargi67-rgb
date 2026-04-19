@@ -1,51 +1,79 @@
-# 💫 About Me
-
-I am a results-driven **Data Analyst** dedicated to bridging the gap between raw data and strategic decision-making. My expertise lies in architecting data pipelines, performing deep exploratory analysis, and crafting intuitive visualizations that tell a story.
-
-- 🔭 **Current Focus**: Refining advanced statistical modeling and predictive analytics.
-- ⚡ **Core Competencies**: Data Cleaning, Exploratory Data Analysis (EDA), and Statistical Inference.
-- 🎯 **Goal**: To leverage data-driven insights to solve complex business challenges.
-
----
-
-# 💻 Tech Stack
-
-### 📊 Data Analysis & Visualization
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🛠️ Development & Tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<div align="center">
+  <h1>🚀 Pooja Hippargi</h1>
+  <p><strong>Data Analyst | Insight Architect | Problem Solver</strong></p>
+  
+  <a href="https://www.linkedin.com/in/pooja-hippargi-9364a1319">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+### 💫 About Me
+I am a dedicated **Data Analyst** with a mission to turn complex, raw data into clear, actionable business intelligence. My approach combines rigorous statistical analysis with intuitive data storytelling to support high-stakes decision-making.
+
+- 🔍 **Current Focus**: Mastering Exploratory Data Analysis (EDA) & Predictive Modeling.
+- 💡 **Passion**: Bridging the gap between technical metrics and business outcomes.
+- 🌱 **Learning**: Enhancing my skills in Deep Learning and Cloud Data Engineering.
+
+---
+
+### 💻 Technical Ecosystem
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analysis & Visualization</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Database & Cloud</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Engineering & Tools</h4>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Programming & Design</h4>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Contribution Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=poojahippargi67-rgb&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Pooja's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=poojahippargi67-rgb&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=poojahippargi67-rgb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=poojahippargi67-rgb&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=poojahippargi67-rgb&theme=visual_studio_dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=poojahippargi67-rgb&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pooja-hippargi-9364a1319">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poojahippargi67-rgb&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
-</p>
-
-<p align="center">
-  <sub>Proudly maintained by <b>Pooja Hippargi</b></sub>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=poojahippargi67-rgb&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Views" />
+  <br />
+  <sub>Built with ❤️ by Pooja Hippargi</sub>
+</div>
